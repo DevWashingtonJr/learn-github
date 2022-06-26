@@ -1,7 +1,7 @@
-# Desafio de Projeto sobre Git/Github da DIO
+# :writing_hand: Desafio Git/Github - DIO
 Repositorio criado para o Desafio de Projeto
 
-## Links Úteis
+## :paperclip: Links Úteis
 [Como Escrever o Readme](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
