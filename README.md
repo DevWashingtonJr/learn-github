@@ -2,6 +2,9 @@
 Repositorio criado para o Desafio de Projeto
 
 ## :paperclip: Links Úteis
+
+[Guia Prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+
 [Como Escrever o Readme](https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509)
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
