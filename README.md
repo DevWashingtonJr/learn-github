@@ -1,5 +1,5 @@
-# :writing_hand: Desafio Git/Github - DIO
-Repositorio criado para o Desafio de Projeto
+# :v: Um pouco que sei sobre o Git/Github pra ajudar os devs iniciantes
+Repositorio criado com intuito de aprender um pouco mais sobre o GitHub uma das alternativas de como desenvolver README, Github Pages, Personalizar seu perfil do Github, Os commits antes subir o codigo no repositorio do Github
 
 ## :paperclip: Links Úteis
 
@@ -18,3 +18,9 @@ Repositorio criado para o Desafio de Projeto
 [Badges](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+[Git Commit MSG](http://karma-runner.github.io/4.0/dev/git-commit-msg.html)
+
+[GitHub Pages](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages?)
+
+## PS: Você só falha quando para de tentar :four_leaf_clover:
